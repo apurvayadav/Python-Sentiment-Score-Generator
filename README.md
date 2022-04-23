@@ -1,6 +1,6 @@
 # Python-Sentiment-Score-Generator
 
-##Introduction
+## Introduction
 A Python Sentiment Score Generator takes a Input .xlsx file with links from a data science blog website- "Blackcoffer" and saves the content of the webpages in text file. Then By using nltk library Sentiment scores arfe generated and saved in an Output .csv file.
 
 ## [Input.xlsx](https://github.com/apurvayadav/Python-Sentiment-Score-Generator/blob/main/Input.xlsx)
@@ -13,4 +13,4 @@ Python file containing the code to extract the content from the links and save i
 This program uses the nltk library to Generate scores like posiitve_score, polarity_score, fog_index of the content in the text files. And saves the out in the [Output.csv](https://github.com/apurvayadav/Python-Sentiment-Score-Generator/blob/main/Output.csv) file.
 
 ## Demonstration
-You can check out the demonstration of this project on my linkedIn profile at this [link]
+You can check out the demonstration of this project on my linkedIn profile at this [link].
